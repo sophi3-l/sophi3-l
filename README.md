@@ -40,4 +40,4 @@ I'm an undergraduate student from Columbia, Missouri, currently pursuing a B.S. 
 
 ---
 
-Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+Thanks for visiting my profile. Feel free to connect with me!
