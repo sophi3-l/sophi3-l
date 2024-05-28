@@ -30,9 +30,9 @@ I'm an undergraduate student from Columbia, Missouri, currently pursuing a B.S. 
 
 ## 🌟 Interests
 - **Music Production/Songwriting**
-- **Space and Sci-Fi**
-- **Boxing and Sports**
-- **Coffee Enthusiast**
+- **Sci-Fi**
+- **Martial Arts and Sports**
+
 
 ## 📫 How to reach me
 - Email: [lietz@unc.edu](mailto:lietz@unc.edu)
