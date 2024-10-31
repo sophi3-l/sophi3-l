@@ -13,16 +13,7 @@ I'm an undergraduate student from Columbia, Missouri, currently pursuing a B.S. 
 - B.S. in Physics (Expected May 2027)
 - Minor in Applied Sciences and Engineering
 - Honors Carolina
-
-## 💼 Relevant Experience
-**Chapter Founder and Director | Codivate Midwest** (Sept 2020 – May 2023)
-- Directed a nonprofit organization to help students improve computational thinking and programming skills.
-- Managed outreach and organization, contributing over 200 service hours.
-
-**Course Lead | Columbia Independent School** (Spring 2023)
-- Led a team of 6 high school students in developing a game design course.
-- Developed a fully functional game and arcade machine prototype.
-
+  
 ## 🛠️ Notable Projects
 **Work Schedule Automator | Python Coding Project** (June 2023)
 - Developed a Python program to automate scheduling for lifeguarding shifts.
