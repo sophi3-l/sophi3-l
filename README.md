@@ -1,7 +1,7 @@
 # Hi there, I'm Sophie Lietzan 👋
 *she/her/they*
 
-I'm an undergraduate student from Columbia, Missouri, currently pursuing a B.S. in Physics with a minor in Applied Sciences and Engineering at the University of North Carolina at Chapel Hill. I'm passionate about programming, technology, project management, and exploring hands-on environments.
+I'm an undergraduate student from Columbia, Missouri, currently pursuing a B.S. in Physics with a minor in Applied Sciences and Engineering at the University of North Carolina at Chapel Hill. 
 
 ## 🔧 Technologies & Tools
 - **Programming Languages**: Python, C, C#, HTML, JavaScript, R
@@ -31,13 +31,9 @@ I'm an undergraduate student from Columbia, Missouri, currently pursuing a B.S. 
 ## 🌟 Interests
 - **Music Production/Songwriting**
 - **Sci-Fi**
-- **Martial Arts and Sports**
 
 
 ## 📫 How to reach me
 - Email: [lietz@unc.edu](mailto:lietz@unc.edu)
 - LinkedIn: [linkedin.com/in/sophia-lietz](http://www.linkedin.com/in/sophia-lietz)
 
----
-
-Thanks for visiting my profile. Feel free to connect with me!
