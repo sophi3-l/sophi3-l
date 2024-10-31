@@ -1,7 +1,6 @@
-# Hi there, I'm Sophie Lietzan 👋
 *she/her/they*
 
-I'm an undergraduate student from Columbia, Missouri, currently pursuing a B.S. in Physics with a minor in Applied Sciences and Engineering at the University of North Carolina at Chapel Hill. 
+Undergraduate student from Columbia, Missouri, currently pursuing a B.S. in Physics with a minor in Applied Sciences and Engineering at the University of North Carolina at Chapel Hill. 
 
 ## 🔧 Technologies & Tools
 - **Programming Languages**: Python, C, C#, HTML, JavaScript, R
@@ -18,11 +17,6 @@ I'm an undergraduate student from Columbia, Missouri, currently pursuing a B.S. 
 **Work Schedule Automator | Python Coding Project** (June 2023)
 - Developed a Python program to automate scheduling for lifeguarding shifts.
 - Implemented constraints to ensure fair distribution of shifts.
-
-## 🌟 Interests
-- **Music Production/Songwriting**
-- **Sci-Fi**
-
 
 ## 📫 How to reach me
 - Email: [lietz@unc.edu](mailto:lietz@unc.edu)
